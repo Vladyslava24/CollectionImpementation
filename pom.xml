@@ -26,6 +26,11 @@
             <version>4.12</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.testinfected.hamcrest-matchers</groupId>
+            <artifactId>core-matchers</artifactId>
+            <version>1.5</version>
+        </dependency>
     </dependencies>
 
 
